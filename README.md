@@ -32,7 +32,7 @@ It allows two users to play turn-by-turn, automatically checks for **winning con
 
 ## 4 | 5 | 6
 
-7 | 8 | 9
+## 7 | 8 | 9
 
 ````
 
