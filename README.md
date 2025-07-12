@@ -72,7 +72,7 @@ README.md         # Project description and instructions
 ## 👨‍💻 Author
 
 * **Your Name:** Pratik Paithankar
-* **GitHub:** [your-github-username](https://github.com/your-github-Pratik2245)
+* **GitHub:** (https://github.com/your-github-Pratik2245)
 
 ---
 
